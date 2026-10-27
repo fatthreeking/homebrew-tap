@@ -2,7 +2,7 @@ cask "dockmin" do
   version "1.0.0"
   sha256 "43d016bc73cc3b0ac123770b5b8ff76eb720b7e224d2571ecba9b02a802a2978"
 
-  url "https://github.com/fatthreeking/DockMin/releases/download/v#{version}/DockMin.dmg"
+  url "https://github.com/fatthreeking/DockMin/releases/download/#{version}/DockMin-#{version}.dmg"
   name "DockMin"
   desc "Click to minimize windows from the macOS Dock"
   homepage "https://github.com/fatthreeking/DockMin"
